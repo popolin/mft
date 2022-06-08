@@ -7,7 +7,17 @@
 
 ## 💻 Project
 
-Example of microfrontend architecture
+Example of microfrontend architecture with diff FE frameworks: React + Vue
+
+[Live](https://d1gfr6igmv54ao.cloudfront.net/)
+
+## 🚀 Technologies
+
+This project was developed with the following technologies:
+
+- ReactJS
+- Vue
+- GitHub+AWS CI/CD
 
 
 ## 🔬 Context
