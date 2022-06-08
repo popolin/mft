@@ -9,6 +9,7 @@
 
 Example of microfrontend architecture
 
+
 ## 🔬 Context
 
 Udemy courses
